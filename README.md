@@ -17,7 +17,7 @@ This course is a part of the School of Computer Engineering and is worth 2 credi
 | `2` | |  Structure, Single Linked List
 | `3`    | |Double Linked List, Circular Linked List|
 |`4`    | | Polynomial Representation, Addition & Multiplication, Sparse Matrix Representation, Addition & Multiplication|
-|`5	`  | |Stack|
+|`5`  | |Stack|
 |`6`	  | |More on Stack & Applications of Stack|
 |`7`	  | |Queue|
 |`8`	  | |Tree|
